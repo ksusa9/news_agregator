@@ -1,0 +1,11 @@
+aiosqlite==0.21.0
+bcrypt==5.0.0
+dotenv==0.9.9
+email-validator==2.3.0
+fastapi==0.123.5
+pydantic==2.12.5
+python-dotenv==1.2.1
+python-jose==3.5.0
+SQLAlchemy==2.0.44
+uvicorn==0.38.0
+passlib==1.7.4
